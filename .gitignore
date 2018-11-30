@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# mac useless stuff / cache / dist
+.DS_Store
+.cache/
+dist/
