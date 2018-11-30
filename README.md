@@ -1,4 +1,10 @@
 # webpack4-full-dynamic
+
+Install: npm i
+Run: npm start
+Url: https://localhost:8080
+
+
 This repo is a boilerplate with Webpack4, Babel7, TypeScript and some fancy configuration, implementing the dynamic loading to expose the issue of dynamic loads.
 
 Webpack 4 offers a cool dynamic import cf https://webpack.js.org/guides/code-splitting/#dynamic-imports
