@@ -1,8 +1,8 @@
 # webpack4-full-dynamic
 
-Install: npm i
-Run: npm start
-Url: https://localhost:8080
+- Install: npm i
+- Run: npm start
+- Url: https://localhost:8080
 
 
 This repo is a boilerplate with Webpack4, Babel7, TypeScript and some fancy configuration, implementing the dynamic loading to expose the issue of dynamic loads.
